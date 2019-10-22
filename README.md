@@ -24,4 +24,4 @@ EN - Ingles
 
 ### API
 
-* EN - OWASP API Security Top 10 (https://www.owasp.org/index.php/OWASP_API_Security_Project)[Github](https://github.com/OWASP/API-Security)
+* EN - OWASP API Security Top 10 [WEB](https://www.owasp.org/index.php/OWASP_API_Security_Project) and [Github](https://github.com/OWASP/API-Security)
